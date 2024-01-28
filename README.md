@@ -26,9 +26,11 @@ Here are some ideas to get you started:
 
 - 🎓 &nbsp; Pursuing Master of Computer Applications(MCA) from Devi Ahilya University Indore.
 
-- 🌱 &nbsp; Balancing between algorithms and elegant code. Let's connect for meaningful discussions on software development and beyond.
-
 - ✍️ &nbsp; Talk to me about Tech, Indian mythology and Books.
+  
+- 👯 &nbsp; Part of Rewritting the Code Community: Women In Tech.
+
+- 🌱 &nbsp; Balancing between algorithms and elegant code. Let's connect for meaningful discussions on software development and beyond.
 
 
 
@@ -70,7 +72,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="350" align='right'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashi07dashore&show_icons=true)
 
