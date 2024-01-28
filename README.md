@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 - 💻 &nbsp; Java | Python | MySQL | JavaScript
 
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Spring MVC | Spirngboot
-- 
-- 🛢 &nbsp; MySQL| MongoDB| DBSQLite
+
+- 🛢 &nbsp; MySQL | MongoDB
 
 <!--
 
