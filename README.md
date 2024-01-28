@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋<h2> I'm Rashi Dashore</h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 <br/><br/>
 
-[![Rashi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashi_dashore&show_icons=true)](https://github.com/rashi07dashore)
+[![Rashi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashi07dashore&show_icons=true)](https://github.com/rashi07dashore)
 
 <br/>
 
@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 
 
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=rashi07dashore.rashi07dashore)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
 
