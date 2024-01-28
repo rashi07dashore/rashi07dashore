@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋<h2> I'm Rashi Dashore</h2>
 
-<img align='right' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 
 
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=rashi07dashore.rashi07dashore)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=rashi07dashore.rashi07dashore)   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
 
 
 
