@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 💻 About Me </h3>
 
 
 
@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 
 - 💻 &nbsp; Java | Python | MySQL | JavaScript
 
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Spring MVC | Spirngboot
+- 🌐 &nbsp; HTML | CSS | Bootstrap | Spring MVC | Springboot | Django
 
-- 🛢 &nbsp; MySQL | MongoDB
-
+- 🛢 &nbsp; MySQL | MongoDB | Hibernate
+  
 <!--
 
 - 🛢 &nbsp; MySQL | MongoDB
