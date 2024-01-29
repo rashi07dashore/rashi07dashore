@@ -62,54 +62,28 @@ Here are some ideas to get you started:
 
 <hr>
 
-
-
-<br/><br/>
-
-[![Rashi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rashi07dashore&show_icons=true)](https://github.com/rashi07dashore)
-
-<br/>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="350" align='right'>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashi07dashore&show_icons=true)
-
-<br><br>
-
-
-
-<hr>
-
-
-
 <h3> 🤝🏻 Connect with Me </h3>
-
 <br>
-
-
-
 <p align="center">
 
 <a href="https://www.linkedin.com/in/rashi-dashore-27b14b248"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rashi%20Dashore-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/rashi_dashore/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-rashi_dashore-black?style=flat-square&logo=instagram"></a>
 
 <a href="mailto:dash.rashi07@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dash.rashi07@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
-[![|Rashi's github activity graph| Reload once if you cannot see this image ](https://gh-readme-activity-graph.herokuapp.com/graph?username=rashi07dashore&theme=gotham&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<hr>
 </p>
 
 
+<hr>
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="350" align='right'>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashi07dashore&show_icons=true&theme=gotham)
 
+<br>
+<table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=rashi07dashore&show_icons=true&theme=gotham" /></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=rashi07dashore&theme=gotham"/></td></tr></table>
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=rashi07dashore.rashi07dashore)   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
-
-
-
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=rashi07dashore.rashi07dashore) 
 
 
 <hr>
