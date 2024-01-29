@@ -98,6 +98,8 @@ Here are some ideas to get you started:
 
 <a href="mailto:dash.rashi07@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dash.rashi07@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
+[![|Rashi's github activity graph| Reload once if you cannot see this image ](https://gh-readme-activity-graph.herokuapp.com/graph?username=rashi07dashore&theme=gotham&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<hr>
 </p>
 
 
