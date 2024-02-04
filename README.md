@@ -61,9 +61,13 @@ Here are some ideas to get you started:
 - 🔧 &nbsp; AWS | Microservices
 
 <hr>
+<p> 
+  Visitor count <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="75"><br>
+  <img src="https://profile-counter.glitch.me/rashi07dashore/count.svg" />
+</p>
 
 <h3> 🤝🏻 Connect with Me </h3>
-<br>
+
 <p align="center">
 
 <a href="https://www.linkedin.com/in/rashi-dashore-27b14b248"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rashi%20Dashore-blue?style=flat-square&logo=linkedin"></a>
@@ -83,7 +87,6 @@ Here are some ideas to get you started:
 <br>
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=rashi07dashore&show_icons=true&theme=gotham" /></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=rashi07dashore&theme=gotham"/></td></tr></table>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=rashi07dashore.rashi07dashore) 
 
 
 <hr>
