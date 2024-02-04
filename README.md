@@ -87,6 +87,9 @@ Here are some ideas to get you started:
 <br>
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=rashi07dashore&show_icons=true&theme=gotham" /></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=rashi07dashore&theme=gotham"/></td></tr></table>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rashi07dashore&theme=aura_dark&no-frame=false&no-bg=true&margin-w=4)
+
 
 
 <hr>
