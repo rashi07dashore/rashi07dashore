@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 
 
 
-<h3>🛠 To Learn</h3>
+<h3>🛠 Learning</h3>
 
-- 🔧 &nbsp; AWS | Microservices
+- 🔧 &nbsp; AWS | Docker
 
 <hr>
 <p> 
